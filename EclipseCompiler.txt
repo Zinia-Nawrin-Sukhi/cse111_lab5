@@ -1,0 +1,578 @@
+6 Feb 2019 19:23:23 GMT: Log 'EclipseCompiler.txt' opened: 6 Feb 2019 19:23:23 GMT with name E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\EclipseCompiler.txt
+6 Feb 2019 19:23:27 GMT: Log 'EclipseCompiler.txt' opened: 6 Feb 2019 19:23:27 GMT with name E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\EclipseCompiler.txt
+6 Feb 2019 21:17:06 GMT: diagnostics = javax.tools.DiagnosticCollector@1c1a697
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18c578
+fileObjects = [C:\Users\user\AppData\Local\Temp\Temp1_LAB-5,ZINIA NAWRIN,ID-18301193.zip\LAB-5,ZINIA NAWRIN,ID-18301193\Student.java, C:\Users\user\AppData\Local\Temp\Temp1_LAB-5,ZINIA NAWRIN,ID-18301193.zip\LAB-5,ZINIA NAWRIN,ID-18301193\studenttester.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Course.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Quiz.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Student.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\StudentTest.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Test.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Cat.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\MidQ3A.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Q3.java]
+6 Feb 2019 21:17:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16da917' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\AppData\Local\Temp\Temp1_LAB-5,ZINIA NAWRIN,ID-18301193.zip\LAB-5,ZINIA NAWRIN,ID-18301193;E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 21:17:07 GMT: Compiler call returned
+6 Feb 2019 21:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16a106c
+6 Feb 2019 21:17:07 GMT:  Kind = ERROR
+6 Feb 2019 21:17:07 GMT: Name = C:\Users\user\AppData\Local\Temp\Temp1_LAB-5,ZINIA NAWRIN,ID-18301193.zip\LAB-5,ZINIA NAWRIN,ID-18301193\studenttester.java LineNo = 1 ColNo = 14 Msg = 'The public type StudentTester must be defined in its own file'
+6 Feb 2019 21:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@170e443
+6 Feb 2019 21:17:07 GMT:  Kind = ERROR
+6 Feb 2019 21:17:07 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Student.java LineNo = 1 ColNo = 14 Msg = 'The type Student is already defined'
+6 Feb 2019 21:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4470b1
+6 Feb 2019 21:17:07 GMT:  Kind = ERROR
+6 Feb 2019 21:17:07 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Q3.java LineNo = 2 ColNo = 10 Msg = 'Syntax error on token "Static", static expected'
+6 Feb 2019 21:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a78bc1
+6 Feb 2019 21:17:07 GMT:  Kind = WARNING
+6 Feb 2019 21:17:07 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Dog.color is not used'
+6 Feb 2019 21:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59ae66
+6 Feb 2019 21:17:07 GMT:  Kind = ERROR
+6 Feb 2019 21:17:07 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\StudentTest.java LineNo = 5 ColNo = 18 Msg = 'The constructor Student(java.lang.String) is undefined'
+6 Feb 2019 21:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e306d2
+6 Feb 2019 21:17:07 GMT:  Kind = ERROR
+6 Feb 2019 21:17:07 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\StudentTest.java LineNo = 7 ColNo = 18 Msg = 'The constructor Student(java.lang.String) is undefined'
+6 Feb 2019 21:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b32487
+6 Feb 2019 21:17:07 GMT:  Kind = ERROR
+6 Feb 2019 21:17:07 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\StudentTest.java LineNo = 9 ColNo = 27 Msg = 'numberofStudents cannot be resolved or is not a field'
+6 Feb 2019 21:17:38 GMT: diagnostics = javax.tools.DiagnosticCollector@e6501e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1716d59
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\MidQ3A.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Q3.java]
+6 Feb 2019 21:17:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@110fe13' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 21:17:38 GMT: Compiler call returned
+6 Feb 2019 21:17:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f30b1a
+6 Feb 2019 21:17:38 GMT:  Kind = ERROR
+6 Feb 2019 21:17:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Q3.java LineNo = 2 ColNo = 10 Msg = 'Syntax error on token "Static", static expected'
+6 Feb 2019 21:17:47 GMT: diagnostics = javax.tools.DiagnosticCollector@1c43607
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@174a9
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\MidQ3A.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Q3.java]
+6 Feb 2019 21:17:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6326f0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 21:17:47 GMT: Compiler call returned
+6 Feb 2019 22:16:07 GMT: diagnostics = javax.tools.DiagnosticCollector@e269cf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@91319c
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\MidQ3A.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Q3.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Student.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\StudentTest.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Quiz.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Cat.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Test.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java]
+6 Feb 2019 22:16:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b84af8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:16:08 GMT: Compiler call returned
+6 Feb 2019 22:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@199b6cc
+6 Feb 2019 22:16:08 GMT:  Kind = ERROR
+6 Feb 2019 22:16:08 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 25 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+6 Feb 2019 22:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10b418d
+6 Feb 2019 22:16:08 GMT:  Kind = WARNING
+6 Feb 2019 22:16:08 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\StudentTest.java LineNo = 9 ColNo = 27 Msg = 'The static field Student.numberofStudents should be accessed in a static way'
+6 Feb 2019 22:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69db5b
+6 Feb 2019 22:16:08 GMT:  Kind = WARNING
+6 Feb 2019 22:16:08 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Dog.color is not used'
+6 Feb 2019 22:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15f3adf
+6 Feb 2019 22:16:08 GMT:  Kind = ERROR
+6 Feb 2019 22:16:08 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 11 ColNo = 8 Msg = 'Return type for the method is missing'
+6 Feb 2019 22:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cac62e
+6 Feb 2019 22:16:08 GMT:  Kind = ERROR
+6 Feb 2019 22:16:08 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 17 ColNo = 8 Msg = 'Return type for the method is missing'
+6 Feb 2019 22:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7efa33
+6 Feb 2019 22:16:08 GMT:  Kind = ERROR
+6 Feb 2019 22:16:08 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 9 ColNo = 21 Msg = 'The constructor Player(java.lang.String) is undefined'
+6 Feb 2019 22:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@174ea4
+6 Feb 2019 22:16:08 GMT:  Kind = ERROR
+6 Feb 2019 22:16:08 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 14 ColNo = 21 Msg = 'The constructor Player(java.lang.String, int) is undefined'
+6 Feb 2019 22:16:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@481a3b
+6 Feb 2019 22:16:08 GMT:  Kind = ERROR
+6 Feb 2019 22:16:08 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 18 ColNo = 21 Msg = 'The constructor Player(java.lang.String, int, java.lang.String) is undefined'
+6 Feb 2019 22:18:55 GMT: diagnostics = javax.tools.DiagnosticCollector@efc21c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a201d4
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\MidQ3A.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Q3.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Quiz.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Cat.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Test.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:18:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@191db73' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:18:55 GMT: Compiler call returned
+6 Feb 2019 22:18:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9084
+6 Feb 2019 22:18:55 GMT:  Kind = ERROR
+6 Feb 2019 22:18:55 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 28 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+6 Feb 2019 22:18:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d06f6
+6 Feb 2019 22:18:55 GMT:  Kind = WARNING
+6 Feb 2019 22:18:55 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Dog.color is not used'
+6 Feb 2019 22:18:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e2984d
+6 Feb 2019 22:18:55 GMT:  Kind = ERROR
+6 Feb 2019 22:18:55 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 9 ColNo = 21 Msg = 'The constructor Player(java.lang.String) is undefined'
+6 Feb 2019 22:18:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@609b40
+6 Feb 2019 22:18:55 GMT:  Kind = ERROR
+6 Feb 2019 22:18:55 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 14 ColNo = 21 Msg = 'The constructor Player(java.lang.String, int) is undefined'
+6 Feb 2019 22:18:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8ca938
+6 Feb 2019 22:18:55 GMT:  Kind = ERROR
+6 Feb 2019 22:18:55 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 18 ColNo = 21 Msg = 'The constructor Player(java.lang.String, int, java.lang.String) is undefined'
+6 Feb 2019 22:19:18 GMT: diagnostics = javax.tools.DiagnosticCollector@1e87dbb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1972006
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\MidQ3A.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Q3.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Quiz.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Cat.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Test.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:19:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1182f8c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:19:18 GMT: Compiler call returned
+6 Feb 2019 22:19:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f64d07
+6 Feb 2019 22:19:18 GMT:  Kind = WARNING
+6 Feb 2019 22:19:18 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Dog.color is not used'
+6 Feb 2019 22:19:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10b5ac1
+6 Feb 2019 22:19:18 GMT:  Kind = ERROR
+6 Feb 2019 22:19:18 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 9 ColNo = 21 Msg = 'The constructor Player(java.lang.String) is undefined'
+6 Feb 2019 22:19:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1140aa8
+6 Feb 2019 22:19:18 GMT:  Kind = ERROR
+6 Feb 2019 22:19:18 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 14 ColNo = 21 Msg = 'The constructor Player(java.lang.String, int) is undefined'
+6 Feb 2019 22:19:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51fb59
+6 Feb 2019 22:19:18 GMT:  Kind = ERROR
+6 Feb 2019 22:19:18 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 18 ColNo = 21 Msg = 'The constructor Player(java.lang.String, int, java.lang.String) is undefined'
+6 Feb 2019 22:19:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a70221
+6 Feb 2019 22:19:18 GMT:  Kind = WARNING
+6 Feb 2019 22:19:18 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:19:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18f92a6
+6 Feb 2019 22:19:18 GMT:  Kind = WARNING
+6 Feb 2019 22:19:18 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:19:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f98f5
+6 Feb 2019 22:19:18 GMT:  Kind = WARNING
+6 Feb 2019 22:19:18 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:28:14 GMT: diagnostics = javax.tools.DiagnosticCollector@90ccff
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12cae5b
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\MidQ3A.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Q3.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Quiz.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Cat.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Test.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:28:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@40057c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:28:14 GMT: Compiler call returned
+6 Feb 2019 22:28:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10718ab
+6 Feb 2019 22:28:14 GMT:  Kind = WARNING
+6 Feb 2019 22:28:14 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Dog.color is not used'
+6 Feb 2019 22:28:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@620032
+6 Feb 2019 22:28:14 GMT:  Kind = ERROR
+6 Feb 2019 22:28:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 3 ColNo = 21 Msg = 'The constructor Player() is undefined'
+6 Feb 2019 22:28:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10f35d8
+6 Feb 2019 22:28:14 GMT:  Kind = WARNING
+6 Feb 2019 22:28:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:28:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1de1213
+6 Feb 2019 22:28:14 GMT:  Kind = WARNING
+6 Feb 2019 22:28:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:28:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e19943
+6 Feb 2019 22:28:14 GMT:  Kind = WARNING
+6 Feb 2019 22:28:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:29:55 GMT: diagnostics = javax.tools.DiagnosticCollector@477a93
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1be46f1
+fileObjects = [E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Quiz.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Cat.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Test.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:29:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@173a066' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:29:55 GMT: Compiler call returned
+6 Feb 2019 22:29:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9f4113
+6 Feb 2019 22:29:55 GMT:  Kind = WARNING
+6 Feb 2019 22:29:55 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Dog.color is not used'
+6 Feb 2019 22:29:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@117009e
+6 Feb 2019 22:29:55 GMT:  Kind = WARNING
+6 Feb 2019 22:29:55 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:29:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17703e4
+6 Feb 2019 22:29:55 GMT:  Kind = WARNING
+6 Feb 2019 22:29:55 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:29:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15b2b98
+6 Feb 2019 22:29:55 GMT:  Kind = WARNING
+6 Feb 2019 22:29:55 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:30:03 GMT: diagnostics = javax.tools.DiagnosticCollector@de3068
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c24bf5
+fileObjects = [E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Quiz.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Cat.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Test.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:30:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15f71cd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:30:03 GMT: Compiler call returned
+6 Feb 2019 22:30:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@86a21e
+6 Feb 2019 22:30:03 GMT:  Kind = WARNING
+6 Feb 2019 22:30:03 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Dog.color is not used'
+6 Feb 2019 22:30:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1231a66
+6 Feb 2019 22:30:03 GMT:  Kind = WARNING
+6 Feb 2019 22:30:03 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:30:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@161b99e
+6 Feb 2019 22:30:03 GMT:  Kind = WARNING
+6 Feb 2019 22:30:03 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:30:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dd6083
+6 Feb 2019 22:30:03 GMT:  Kind = WARNING
+6 Feb 2019 22:30:03 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:30:07 GMT: diagnostics = javax.tools.DiagnosticCollector@61f7c4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13a83ed
+fileObjects = [E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Quiz.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Cat.java, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Test.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:30:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fd4753' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:30:07 GMT: Compiler call returned
+6 Feb 2019 22:30:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13c044e
+6 Feb 2019 22:30:07 GMT:  Kind = WARNING
+6 Feb 2019 22:30:07 GMT: Name = E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\Dog.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Dog.color is not used'
+6 Feb 2019 22:30:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13f4e9d
+6 Feb 2019 22:30:07 GMT:  Kind = WARNING
+6 Feb 2019 22:30:07 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:30:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d866cb
+6 Feb 2019 22:30:07 GMT:  Kind = WARNING
+6 Feb 2019 22:30:07 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:30:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f68c0d
+6 Feb 2019 22:30:07 GMT:  Kind = WARNING
+6 Feb 2019 22:30:07 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:30:25 GMT: diagnostics = javax.tools.DiagnosticCollector@19f3d6d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@247af
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:30:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a1aeee' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:30:26 GMT: Compiler call returned
+6 Feb 2019 22:30:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56d95c
+6 Feb 2019 22:30:26 GMT:  Kind = WARNING
+6 Feb 2019 22:30:26 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:30:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a57635
+6 Feb 2019 22:30:26 GMT:  Kind = WARNING
+6 Feb 2019 22:30:26 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:30:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10e7a9e
+6 Feb 2019 22:30:26 GMT:  Kind = WARNING
+6 Feb 2019 22:30:26 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:30:29 GMT: diagnostics = javax.tools.DiagnosticCollector@eaaa4d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ce1fc3
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:30:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10e1ffb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:30:29 GMT: Compiler call returned
+6 Feb 2019 22:30:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@130d248
+6 Feb 2019 22:30:29 GMT:  Kind = WARNING
+6 Feb 2019 22:30:29 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:30:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@159cf9e
+6 Feb 2019 22:30:29 GMT:  Kind = WARNING
+6 Feb 2019 22:30:29 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:30:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1451358
+6 Feb 2019 22:30:29 GMT:  Kind = WARNING
+6 Feb 2019 22:30:29 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:43:15 GMT: diagnostics = javax.tools.DiagnosticCollector@646301
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12130f0
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:43:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13a4bc8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;E:\cse111\lab code;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:43:16 GMT: Compiler call returned
+6 Feb 2019 22:43:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48caa6
+6 Feb 2019 22:43:16 GMT:  Kind = ERROR
+6 Feb 2019 22:43:16 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 4 ColNo = 4 Msg = 'The method setName(java.lang.String) is undefined for the type Player'
+6 Feb 2019 22:43:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ea31f8
+6 Feb 2019 22:43:16 GMT:  Kind = ERROR
+6 Feb 2019 22:43:16 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 5 ColNo = 4 Msg = 'The method setNumber(int) is undefined for the type Player'
+6 Feb 2019 22:43:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@df7b10
+6 Feb 2019 22:43:16 GMT:  Kind = ERROR
+6 Feb 2019 22:43:16 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 6 ColNo = 4 Msg = 'The method setTeam(java.lang.String) is undefined for the type Player'
+6 Feb 2019 22:43:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@437dd4
+6 Feb 2019 22:43:16 GMT:  Kind = ERROR
+6 Feb 2019 22:43:16 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 10 ColNo = 4 Msg = 'The method setNumber(int) is undefined for the type Player'
+6 Feb 2019 22:43:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8a9e40
+6 Feb 2019 22:43:16 GMT:  Kind = ERROR
+6 Feb 2019 22:43:16 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 11 ColNo = 4 Msg = 'The method setTeam(java.lang.String) is undefined for the type Player'
+6 Feb 2019 22:43:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1121418
+6 Feb 2019 22:43:16 GMT:  Kind = ERROR
+6 Feb 2019 22:43:16 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 15 ColNo = 4 Msg = 'The method setTeam(java.lang.String) is undefined for the type Player'
+6 Feb 2019 22:43:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cce911
+6 Feb 2019 22:43:16 GMT:  Kind = WARNING
+6 Feb 2019 22:43:16 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:43:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15c83c1
+6 Feb 2019 22:43:16 GMT:  Kind = WARNING
+6 Feb 2019 22:43:16 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:43:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1827874
+6 Feb 2019 22:43:16 GMT:  Kind = WARNING
+6 Feb 2019 22:43:16 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:43:33 GMT: diagnostics = javax.tools.DiagnosticCollector@1aa2764
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8d11e5
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:43:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@42af78' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;E:\cse111\lab code;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:43:33 GMT: Compiler call returned
+6 Feb 2019 22:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b074d2
+6 Feb 2019 22:43:33 GMT:  Kind = WARNING
+6 Feb 2019 22:43:33 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b015ee
+6 Feb 2019 22:43:33 GMT:  Kind = WARNING
+6 Feb 2019 22:43:33 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e14185
+6 Feb 2019 22:43:33 GMT:  Kind = WARNING
+6 Feb 2019 22:43:33 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:43:37 GMT: diagnostics = javax.tools.DiagnosticCollector@82f64
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@151fe91
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:43:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a442d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;E:\cse111\lab code;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:43:37 GMT: Compiler call returned
+6 Feb 2019 22:43:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9da4f2
+6 Feb 2019 22:43:37 GMT:  Kind = WARNING
+6 Feb 2019 22:43:37 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:43:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ce8bd5
+6 Feb 2019 22:43:37 GMT:  Kind = WARNING
+6 Feb 2019 22:43:37 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:43:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11456a8
+6 Feb 2019 22:43:37 GMT:  Kind = WARNING
+6 Feb 2019 22:43:37 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:43:42 GMT: diagnostics = javax.tools.DiagnosticCollector@d81a7f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@74c113
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:43:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b6aecd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;E:\cse111\lab code;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:43:43 GMT: Compiler call returned
+6 Feb 2019 22:43:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d3d96a
+6 Feb 2019 22:43:43 GMT:  Kind = WARNING
+6 Feb 2019 22:43:43 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:43:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aaec3d
+6 Feb 2019 22:43:43 GMT:  Kind = WARNING
+6 Feb 2019 22:43:43 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:43:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a86880
+6 Feb 2019 22:43:43 GMT:  Kind = WARNING
+6 Feb 2019 22:43:43 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:43:51 GMT: diagnostics = javax.tools.DiagnosticCollector@96a41f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b7569f
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:43:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b44f36' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;E:\cse111\lab code;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:43:52 GMT: Compiler call returned
+6 Feb 2019 22:43:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1836d43
+6 Feb 2019 22:43:52 GMT:  Kind = WARNING
+6 Feb 2019 22:43:52 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:43:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12ea5dd
+6 Feb 2019 22:43:52 GMT:  Kind = WARNING
+6 Feb 2019 22:43:52 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:43:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60ce8b
+6 Feb 2019 22:43:52 GMT:  Kind = WARNING
+6 Feb 2019 22:43:52 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:43:57 GMT: diagnostics = javax.tools.DiagnosticCollector@ab910c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11ba759
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:43:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12d6451' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;E:\cse111\lab code;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:43:58 GMT: Compiler call returned
+6 Feb 2019 22:43:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cec05
+6 Feb 2019 22:43:58 GMT:  Kind = WARNING
+6 Feb 2019 22:43:58 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:43:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2743c3
+6 Feb 2019 22:43:58 GMT:  Kind = WARNING
+6 Feb 2019 22:43:58 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:43:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@183df95
+6 Feb 2019 22:43:58 GMT:  Kind = WARNING
+6 Feb 2019 22:43:58 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:45:22 GMT: diagnostics = javax.tools.DiagnosticCollector@b64c79
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13825b7
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:45:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8cf070' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;E:\cse111\lab code;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:45:23 GMT: Compiler call returned
+6 Feb 2019 22:45:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ec6958
+6 Feb 2019 22:45:23 GMT:  Kind = WARNING
+6 Feb 2019 22:45:23 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:45:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11df111
+6 Feb 2019 22:45:23 GMT:  Kind = WARNING
+6 Feb 2019 22:45:23 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:45:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ddc7
+6 Feb 2019 22:45:23 GMT:  Kind = WARNING
+6 Feb 2019 22:45:23 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:45:28 GMT: diagnostics = javax.tools.DiagnosticCollector@1d235a6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d6568e
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:45:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f17dfd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;E:\cse111\lab code;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:45:28 GMT: Compiler call returned
+6 Feb 2019 22:45:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aa316c
+6 Feb 2019 22:45:28 GMT:  Kind = WARNING
+6 Feb 2019 22:45:28 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:45:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bd6a02
+6 Feb 2019 22:45:28 GMT:  Kind = WARNING
+6 Feb 2019 22:45:28 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:45:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17a10ad
+6 Feb 2019 22:45:28 GMT:  Kind = WARNING
+6 Feb 2019 22:45:28 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:45:43 GMT: diagnostics = javax.tools.DiagnosticCollector@9d4351
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ec6991
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:45:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ff6644' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:45:43 GMT: Compiler call returned
+6 Feb 2019 22:45:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b8618a
+6 Feb 2019 22:45:43 GMT:  Kind = WARNING
+6 Feb 2019 22:45:43 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:45:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@153a511
+6 Feb 2019 22:45:43 GMT:  Kind = WARNING
+6 Feb 2019 22:45:43 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:45:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9a2bff
+6 Feb 2019 22:45:43 GMT:  Kind = WARNING
+6 Feb 2019 22:45:43 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:54:08 GMT: diagnostics = javax.tools.DiagnosticCollector@1eb92eb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1daa3f6
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:54:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14abd88' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:54:09 GMT: Compiler call returned
+6 Feb 2019 22:54:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@160c786
+6 Feb 2019 22:54:09 GMT:  Kind = ERROR
+6 Feb 2019 22:54:09 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 4 ColNo = 4 Msg = 'The method setName() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@887548
+6 Feb 2019 22:54:09 GMT:  Kind = ERROR
+6 Feb 2019 22:54:09 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 5 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 22:54:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e984e
+6 Feb 2019 22:54:09 GMT:  Kind = ERROR
+6 Feb 2019 22:54:09 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 6 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@62090f
+6 Feb 2019 22:54:09 GMT:  Kind = ERROR
+6 Feb 2019 22:54:09 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 10 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 22:54:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e9b972
+6 Feb 2019 22:54:09 GMT:  Kind = ERROR
+6 Feb 2019 22:54:09 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 11 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d4aff2
+6 Feb 2019 22:54:09 GMT:  Kind = ERROR
+6 Feb 2019 22:54:09 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 15 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16d94e
+6 Feb 2019 22:54:09 GMT:  Kind = ERROR
+6 Feb 2019 22:54:09 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 15 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+6 Feb 2019 22:54:14 GMT: diagnostics = javax.tools.DiagnosticCollector@8e6aed
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b25895
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:54:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3fd59e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:54:14 GMT: Compiler call returned
+6 Feb 2019 22:54:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e5e1ae
+6 Feb 2019 22:54:14 GMT:  Kind = ERROR
+6 Feb 2019 22:54:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 4 ColNo = 4 Msg = 'The method setName() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@184141
+6 Feb 2019 22:54:14 GMT:  Kind = ERROR
+6 Feb 2019 22:54:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 5 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 22:54:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e81db6
+6 Feb 2019 22:54:14 GMT:  Kind = ERROR
+6 Feb 2019 22:54:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 6 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@634c43
+6 Feb 2019 22:54:14 GMT:  Kind = ERROR
+6 Feb 2019 22:54:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 10 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 22:54:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16a2ef0
+6 Feb 2019 22:54:14 GMT:  Kind = ERROR
+6 Feb 2019 22:54:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 11 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1267255
+6 Feb 2019 22:54:14 GMT:  Kind = ERROR
+6 Feb 2019 22:54:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 15 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48d62a
+6 Feb 2019 22:54:14 GMT:  Kind = WARNING
+6 Feb 2019 22:54:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:54:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8f8234
+6 Feb 2019 22:54:14 GMT:  Kind = WARNING
+6 Feb 2019 22:54:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:54:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fe28bb
+6 Feb 2019 22:54:14 GMT:  Kind = WARNING
+6 Feb 2019 22:54:14 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:54:38 GMT: diagnostics = javax.tools.DiagnosticCollector@11248d5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@190aae9
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:54:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fc68e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:54:38 GMT: Compiler call returned
+6 Feb 2019 22:54:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@198773e
+6 Feb 2019 22:54:38 GMT:  Kind = ERROR
+6 Feb 2019 22:54:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 4 ColNo = 4 Msg = 'The method setName() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1755fd4
+6 Feb 2019 22:54:38 GMT:  Kind = ERROR
+6 Feb 2019 22:54:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 5 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 22:54:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a58f9a
+6 Feb 2019 22:54:38 GMT:  Kind = ERROR
+6 Feb 2019 22:54:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 6 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1837c5
+6 Feb 2019 22:54:38 GMT:  Kind = ERROR
+6 Feb 2019 22:54:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 10 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 22:54:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@418cbf
+6 Feb 2019 22:54:38 GMT:  Kind = ERROR
+6 Feb 2019 22:54:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 11 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cbea5c
+6 Feb 2019 22:54:38 GMT:  Kind = ERROR
+6 Feb 2019 22:54:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 15 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:54:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d7e60
+6 Feb 2019 22:54:38 GMT:  Kind = WARNING
+6 Feb 2019 22:54:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:54:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e4dab7
+6 Feb 2019 22:54:38 GMT:  Kind = WARNING
+6 Feb 2019 22:54:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:54:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15a9280
+6 Feb 2019 22:54:38 GMT:  Kind = WARNING
+6 Feb 2019 22:54:38 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 22:56:45 GMT: diagnostics = javax.tools.DiagnosticCollector@1c6df98
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e20460
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 22:56:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a8bb60' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 22:56:45 GMT: Compiler call returned
+6 Feb 2019 22:56:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c7e198
+6 Feb 2019 22:56:45 GMT:  Kind = ERROR
+6 Feb 2019 22:56:45 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 4 ColNo = 4 Msg = 'The method setName() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:56:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4dcd7a
+6 Feb 2019 22:56:45 GMT:  Kind = ERROR
+6 Feb 2019 22:56:45 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 5 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 22:56:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@895ec
+6 Feb 2019 22:56:45 GMT:  Kind = ERROR
+6 Feb 2019 22:56:45 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 6 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:56:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@155926e
+6 Feb 2019 22:56:45 GMT:  Kind = ERROR
+6 Feb 2019 22:56:45 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 10 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 22:56:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f71fd
+6 Feb 2019 22:56:45 GMT:  Kind = ERROR
+6 Feb 2019 22:56:45 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 11 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:56:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35519b
+6 Feb 2019 22:56:45 GMT:  Kind = ERROR
+6 Feb 2019 22:56:45 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 15 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 22:56:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@da1b04
+6 Feb 2019 22:56:45 GMT:  Kind = WARNING
+6 Feb 2019 22:56:45 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 22:56:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f92e13
+6 Feb 2019 22:56:45 GMT:  Kind = WARNING
+6 Feb 2019 22:56:45 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 22:56:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@da3a48
+6 Feb 2019 22:56:45 GMT:  Kind = WARNING
+6 Feb 2019 22:56:45 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 23:05:41 GMT: diagnostics = javax.tools.DiagnosticCollector@1ea7aca
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@93a948
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 23:05:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@100032e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 23:05:41 GMT: Compiler call returned
+6 Feb 2019 23:05:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17359eb
+6 Feb 2019 23:05:41 GMT:  Kind = ERROR
+6 Feb 2019 23:05:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 4 ColNo = 4 Msg = 'The method setName() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:05:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d467ce
+6 Feb 2019 23:05:41 GMT:  Kind = ERROR
+6 Feb 2019 23:05:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 5 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 23:05:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13869d6
+6 Feb 2019 23:05:41 GMT:  Kind = ERROR
+6 Feb 2019 23:05:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 6 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:05:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@af571f
+6 Feb 2019 23:05:41 GMT:  Kind = ERROR
+6 Feb 2019 23:05:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 10 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 23:05:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17af9e0
+6 Feb 2019 23:05:41 GMT:  Kind = ERROR
+6 Feb 2019 23:05:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 11 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:05:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d71a16
+6 Feb 2019 23:05:41 GMT:  Kind = ERROR
+6 Feb 2019 23:05:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 15 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:05:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fda3c3
+6 Feb 2019 23:05:41 GMT:  Kind = WARNING
+6 Feb 2019 23:05:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 23:05:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8062c
+6 Feb 2019 23:05:41 GMT:  Kind = WARNING
+6 Feb 2019 23:05:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 23:05:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9b4b34
+6 Feb 2019 23:05:41 GMT:  Kind = WARNING
+6 Feb 2019 23:05:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 23:07:41 GMT: diagnostics = javax.tools.DiagnosticCollector@9425a0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e4c656
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 23:07:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3fff71' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 23:07:41 GMT: Compiler call returned
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1689c99
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 4 ColNo = 4 Msg = 'The method setName() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1319f50
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 5 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@529794
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 6 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@789622
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 10 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13f5fe0
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 11 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9983c8
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 15 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@db5fb8
+6 Feb 2019 23:07:41 GMT:  Kind = WARNING
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e0047
+6 Feb 2019 23:07:41 GMT:  Kind = WARNING
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1278633
+6 Feb 2019 23:07:41 GMT:  Kind = WARNING
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+6 Feb 2019 23:07:41 GMT: diagnostics = javax.tools.DiagnosticCollector@4bd617
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@46a62a
+fileObjects = [E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java, E:\cse111\lab code\BankAccount.java, E:\cse111\lab code\Bank.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\Student.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder\StudentDriver.java, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java]
+6 Feb 2019 23:07:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18042ad' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193;E:\cse111\lab code;E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\New Folder\New Folder;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Feb 2019 23:07:41 GMT: Compiler call returned
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2909c0
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 4 ColNo = 4 Msg = 'The method setName() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12d44f1
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 5 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ff70b2
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 6 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11f60d2
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 10 ColNo = 4 Msg = 'The method setNumber() in the type Player is not applicable for the arguments (int)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c40ab8
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 11 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@89dfbd
+6 Feb 2019 23:07:41 GMT:  Kind = ERROR
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\WC2018.java LineNo = 15 ColNo = 4 Msg = 'The method setTeam() in the type Player is not applicable for the arguments (java.lang.String)'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19e5e3e
+6 Feb 2019 23:07:41 GMT:  Kind = WARNING
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Player.name is not used'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@159a16f
+6 Feb 2019 23:07:41 GMT:  Kind = WARNING
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 3 ColNo = 13 Msg = 'The value of the field Player.number is not used'
+6 Feb 2019 23:07:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71f7b6
+6 Feb 2019 23:07:41 GMT:  Kind = WARNING
+6 Feb 2019 23:07:41 GMT: Name = E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\Player.java LineNo = 4 ColNo = 16 Msg = 'The value of the field Player.team is not used'
+15 Mar 2019 15:32:16 GMT: Log 'EclipseCompiler.txt' opened: 15 Mar 2019 15:32:16 GMT with name E:\cse111\lab code\LAB-5,ZINIA NAWRIN,ID-18301193\EclipseCompiler.txt
